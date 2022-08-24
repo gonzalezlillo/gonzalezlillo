@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**gonzalezlillo/gonzalezlillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Rodrigo González Lillo, Junior Fullstack Developer based in Santiago de Chile.
 
-Here are some ideas to get you started:
+😍 My preferred languages: Javascript, PHP and Python (also HTML and CSS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 My DB: MySQL and Postgres
+
+🤓 I have some experience in these frameworks and libraries: Laravel, Bootstrap and *(the old fashioned)* JQuery.
+
+🤓 I’m currently learning:
+* Java + Spring
+* Typescript
+
+📫 You can contact me on Linkedin: https://www.linkedin.com/in/gonzalezlillo
+
