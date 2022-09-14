@@ -4,7 +4,7 @@
 
 😍 My preferred languages: Javascript, PHP and Python (also HTML and CSS).
 
-🤖 My DB: MySQL and Postgres
+🤖 DB: MySQL and Postgres
 
 🤓 I have some experience in these frameworks and libraries: Laravel, Bootstrap and *(the old fashioned)* JQuery.
 
