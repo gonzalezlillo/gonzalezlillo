@@ -11,7 +11,7 @@
 🤓 I have some experience in these frameworks and libraries: Laravel, Bootstrap and *(the old fashioned)* JQuery.
 
 😋 Nowadays I’m learning:
-* Java + Spring Boot
+* Java + Spring
 * Typescript + Angular
 
 📫 You can contact me on Linkedin: https://www.linkedin.com/in/gonzalezlillo
