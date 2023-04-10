@@ -4,15 +4,11 @@
 
 #### Currently working as Software Developer at IT Smart.
 
-😍 My preferred languages: Javascript, PHP and Python (also HTML and CSS).
+😍 My preferred languages: Javascript, Typescript, Java, PHP and Python (also HTML and CSS).
 
 🤖 DB: MySQL and Postgres
 
-🤓 I have some experience in these frameworks and libraries: Laravel, Bootstrap and *(the old fashioned)* JQuery.
-
-😋 Nowadays I’m learning:
-* Java + Spring
-* Typescript + Angular
+🤓 I have some experience in these frameworks and libraries: Angular, Spring, Laravel, Bootstrap and *(the old fashioned)* JQuery.
 
 📫 You can contact me on Linkedin: https://www.linkedin.com/in/gonzalezlillo
 
