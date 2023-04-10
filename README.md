@@ -10,5 +10,9 @@
 
 🤓 I have some experience in these frameworks and libraries: Angular, Spring, Laravel, Bootstrap and *(the old fashioned)* JQuery.
 
+😋 Nowadays I'm learning:
+   - Fundamentals of computer networking
+   - I increase my knowledge and practice in APIs, microservices, testing, Java, Javascript and Angular
+
 📫 You can contact me on Linkedin: https://www.linkedin.com/in/gonzalezlillo
 
