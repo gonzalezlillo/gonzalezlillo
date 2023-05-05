@@ -12,6 +12,7 @@
 
 😋 Nowadays I'm learning:
    - Fundamentals of computer networking
+   - Fundamentals of AWS
    - I increase my knowledge and practice in APIs, microservices, testing, Java, Javascript and Angular
 
 📫 You can contact me on Linkedin: https://www.linkedin.com/in/gonzalezlillo
