@@ -2,7 +2,7 @@
 
 #### I'm Rodrigo González Lillo, Junior Fullstack Developer based in Santiago de Chile.
 
-#### Currently working as Software Developer at IT Smart.
+#### Currently working as Back-end Developer at IT Smart.
 
 😍 My preferred languages: Javascript, Typescript, Java, PHP and Python (also HTML and CSS).
 
