@@ -12,6 +12,7 @@
 
 😋 Nowadays I'm learning:
    - Fundamentals of AWS
+   - NestJS
    - I increase my knowledge and practice in APIs, microservices, Databases, testing and Java.
 
 📫 You can contact me on Linkedin: https://www.linkedin.com/in/gonzalezlillo
