@@ -8,7 +8,7 @@
 
 🤖 DB: MySQL and Postgres
 
-🤓 I have some experience in these frameworks and libraries: Angular, Spring, Laravel, Bootstrap and *(the old fashioned)* JQuery.
+🤓 I have some experience in these frameworks and libraries: Angular, Spring / Springboot, Laravel, Bootstrap and *(the old fashioned)* JQuery.
 
 😋 Nowadays I'm learning:
    - Fundamentals of AWS
